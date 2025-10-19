@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Inter", sans-serif;
+    font-family: "Inter";
 }
 .header {
   width: 100%;
@@ -260,8 +260,8 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 20px;
-    text-align: center;
     color: #717171;
+    text-align: center;
 }
 .box-content-item2-sect3 {
     width: 240px;
@@ -269,8 +269,8 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 20px;
-    text-align: center;
     color: #717171;
+    text-align: center;
 }
 .box-content-item3-sect3 {
     width: 251px;
@@ -278,8 +278,8 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 20px;
-    text-align: center;
     color: #717171;
+    text-align: center;
 }
 .title-box-item3-sect3 {
     font-weight: 700;
@@ -327,6 +327,7 @@
     gap: 16px;
 }
 .main-title-sect4 {
+    width: 490px;
     font-weight: 600;
     font-size: 36px;
     line-height: 44px;
@@ -356,7 +357,7 @@
     height: 288px;
     background-color: #F5F7FA;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
 }
 .box-content {
@@ -371,6 +372,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 72px;
 }
 .inner-content-sect5 {
     width: 540px;
@@ -655,12 +657,12 @@
 
 .box-content {
     margin: 32px 0;
-    width: 800px;
+    /* width: 800px; */
     height: 152px;
     font-weight: 600;
     font-size: 64px;
     line-height: 76px;
-    text-align: center;
+    /* text-align: center; */
     color: #263238;
 }
 .button-sect9 {
