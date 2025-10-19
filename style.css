@@ -656,6 +656,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 8px;
 }
 
 .section3 {
@@ -674,7 +675,6 @@
 
 .box-content {
     margin: 32px 0;
-    height: 152px;
     font-weight: 600;
     font-size: 64px;
     line-height: 76px;
@@ -698,6 +698,7 @@
     justify-content: center;
     background-color: #4CAF4F;
     border-radius: 4px;
+    gap: 8px;
 }
 .button-get-a-demo {
     width: 90px;
@@ -806,4 +807,3 @@
     line-height: 20px;
     color: #ffffff;
 }
-
