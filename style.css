@@ -794,7 +794,6 @@
     width: 255px;
     height: 40px;
     border-radius: 8px;
-    opacity: 20%;
     background-color: #515b60;
     display: flex;
     justify-content: center;
@@ -807,3 +806,4 @@
     line-height: 20px;
     color: #ffffff;
 }
+
